@@ -1,0 +1,28 @@
+/* Ultra Beasts highlight in Shelter */
+#shelterarea > .pokemon > img {
+&[src*="pkmn/z/c/i/w.png"], /* nihilego egg */
+&[src*="pkmn/l/3/z/m.png"], /* nihilego */
+&[src*="pkmn/2/n/1/d.png"], /* buzzwole egg */
+&[src*="pkmn/z/6/2/e.png"], /* buzzwole */
+&[src*="pkmn/d/e/3/i.png"], /* pheromosa egg */
+&[src*="pkmn/n/7/8/8.png"], /* pheromosa */
+&[src*="pkmn/3/0/r/9.png"], /* xurkitree egg */
+&[src*="pkmn/n/f/6/j.png"], /* xurkitree */
+&[src*="pkmn/m/a/v/e.png"], /* celesteela egg */
+&[src*="pkmn/4/v/2/s.png"], /* celesteela */
+&[src*="pkmn/e/r/7/r.png"], /* kartana egg */
+&[src*="pkmn/j/d/9/g.png"], /* kartana */
+&[src*="pkmn/p/k/v/c.png"], /* guzzlord egg */
+&[src*="pkmn/x/7/9/2.png"], /* guzzlord */
+&[src*="pkmn/e/x/w/e.png"], /* poipole egg */
+&[src*="pkmn/t/2/e/m.png"], /* poipole */
+&[src*="pkmn/x/2/7/e.png"], /* naganadel */
+&[src*="pkmn/k/o/h/o.png"], /* stakataka egg */
+&[src*="pkmn/5/2/4/y.png"], /* stakataka */
+&[src*="pkmn/n/b/1/m.png"], /* blacephalon egg */
+&[src*="pkmn/8/v/i/3.png"] /* blacephalon */
+{
+	filter: drop-shadow(5px 5px 5px #3802f7); /* Edit this line to customise your shadow */
+	/* Syntax for the drop-shadow (<offset-horizontal> <offset-vertical> <blur> <color>) */
+}}
+/* End of Ultra Beasts highlight in Shelter */
