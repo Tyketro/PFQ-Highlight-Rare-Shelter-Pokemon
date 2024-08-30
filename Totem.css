@@ -1,0 +1,43 @@
+/* Totem highlight in Shelter */
+#shelterarea > .pokemon > img {
+&[src*="pkmn/3/4/y/0.png"], /* raticate alolan totem */
+&[src*="pkmn/p/r/6/7.png"], /* marowak alolan totem */
+&[src*="pkmn/d/c/9/p.png"], /* gumshoos totem */
+&[src*="pkmn/j/7/i/n.png"], /* vikavolt totem */
+&[src*="pkmn/1/v/e/0.png"], /* ribombee totem */
+&[src*="pkmn/j/a/u/n.png"], /* wishiwashi totem */
+&[src*="pkmn/d/z/7/i.png"], /* araquanid totem */
+&[src*="pkmn/n/n/5/2.png"], /* lurantis totem */
+&[src*="pkmn/d/k/f/i.png"], /* salazzle totem */
+&[src*="pkmn/c/w/s/8.png"], /* togedemaru totem */
+&[src*="pkmn/u/y/q/z.png"], /* mimikyu totem */
+&[src*="pkmn/l/6/7/a.png"], /* kommo-o totem */
+&[src*="pkmn/b/8/r.png"], /* sandslash totem q */
+&[src*="pkmn/q/s/d/d.png"], /* lanturn totem q */
+&[src*="pkmn/1/a/v/z.png"], /* sudowoodo male totem q */
+&[src*="pkmn/c/9/l/j.png"], /* sudowoodo female totem q */
+&[src*="pkmn/2/l/2/c.png"], /* donphan male totem q */
+&[src*="pkmn/v/e/0/a.png"], /* donphan female totem q */
+&[src*="pkmn/8/h/i/s.png"], /* masquerain totem q */
+&[src*="pkmn/7/k/s/i.png"], /* whiscash totem q */
+&[src*="pkmn/j/o/2/a.png"], /* walrein totem q */
+&[src*="pkmn/l/p/v/a.png"], /* skuntank totem q */
+&[src*="pkmn/d/h/1/2.png"], /* spiritomb totem q */
+&[src*="pkmn/v/e/z/e.png"], /* mantine totem q */
+&[src*="pkmn/b/t/f/n.png"], /* porygon-z totem q */
+&[src*="pkmn/d/q/s/y.png"], /* leavanny totem q */
+&[src*="pkmn/g/k/d/5.png"], /* maractus totem q */
+&[src*="pkmn/s/h/t/g.png"], /* galvantula totem q */
+&[src*="pkmn/3/8/c/4.png"], /* braviary totem q */
+&[src*="pkmn/v/w/3/j.png"], /* mandibuzz totem q */
+&[src*="pkmn/e/m/y/s.png"], /* talonflame totem q */
+&[src*="pkmn/s/w/4/y.png"], /* malamar totem q */
+&[src*="pkmn/g/g/9/0.png"], /* trevenant totem q */
+&[src*="pkmn/e/t/1/c.png"], /* snow vespiquen totem q */
+&[src*="pkmn/g/u/b/r.png"], /* slugdog totem q */
+&[src*="pkmn/8/u/p/z.png"] /* eucylph totem q */
+{
+	filter: drop-shadow(5px 5px 5px #ffa600); /* Edit this line to customise your shadow */
+	/* Syntax for the drop-shadow (<offset-horizontal> <offset-vertical> <blur> <color>) */
+}}
+/* End of Totem highlight in Shelter */
