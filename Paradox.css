@@ -1,0 +1,33 @@
+/* Paradox highlight in Shelter */
+#shelterarea > .pokemon > img {
+&[src*="pkmn/c/a/t/r.png"], /* scream tail */
+&[src*="pkmn/x/s/8/0.png"], /* sandy shocks */
+&[src*="pkmn/l/f/d.png"], /* iron bundle */
+&[src*="pkmn/j/u/w/l.png"], /* iron treads */
+&[src*="pkmn/k/8/v/w.png"], /* great tusk */
+&[src*="pkmn/n/d/h.png"], /* flutter mane */
+&[src*="pkmn/e/m/n/0.png"], /* iron thorns */
+&[src*="pkmn/f/a/8/9.png"], /* raging bolt */
+&[src*="pkmn/9/b/2/c.png"], /* gouging fire */
+&[src*="pkmn/4/w/a.png"], /* walking wake */
+&[src*="pkmn/a/1/h/q.png"], /* iron valiant */
+&[src*="pkmn/6/2/c/d.png"], /* iron hands */
+&[src*="pkmn/9/r/8/8.png"], /* roaring moon */
+&[src*="pkmn/e/4/o/v.png"], /* brute bonnet */
+&[src*="pkmn/c/z/q/p.png"], /* iron jugulis */
+&[src*="pkmn/l/e/t/7.png"], /* iron moth */
+&[src*="pkmn/o/n/i/0.png"], /* slither wing */
+&[src*="pkmn/q/l/c/g.png"], /* iron crown */
+&[src*="pkmn/d/s/y/8.png"], /* iron boulder */
+&[src*="pkmn/6/4/v/4.png"], /* iron leaves */
+&[src*="pkmn/n/j/0/9.png"], /* koraidon limited build */
+&[src*="pkmn/d/w/0/6.png"], /* koraidon apex build */
+&[src*="pkmn/u/6/4/l.png"], /* miraidon low power mode */
+&[src*="pkmn/r/7/2/r.png"], /* miraidon ultimate mode */
+&[src*="pkmn/d/g/e/t.png"], /* stone horn */
+&[src*="pkmn/e/3/o/p.png"] /* iron seagrass */
+{
+	filter: drop-shadow(5px 5px 5px #9a08fc); /* Edit this line to customise your shadow */
+	/* Syntax for the drop-shadow (<offset-horizontal> <offset-vertical> <blur> <color>) */
+}}
+/* End of Paradox highlight in Shelter */
