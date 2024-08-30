@@ -1,4 +1,4 @@
-Rare Pokémon Glow in Shelter (For PokéFarm Q)
+[b]Rare Pokémon Glow in Shelter (For PokéFarm Q)[/b]
 
 What does this script do?
 This script will add a coloured back shadow to certain Eggs & Pokémon while in the Shelter. Different categories of Pokémon get different coloured shadows.
