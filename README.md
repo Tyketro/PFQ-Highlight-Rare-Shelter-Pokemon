@@ -96,3 +96,8 @@ A: Kinda. In CSS, the latter scripts take priority over the scripts before it. S
 
 Q: Why is Legendary here when it already has a highlight option in QOL?
 A: This was more down to personal preference. Compared to what I would usually use the QOL highlight feature for, I found it too distracting for how common Legendary Pokémon can be in the shelter, and I wanted a more subtle option.
+
+
+Q: Why aren't Mega Evolutions in this list?
+A: Mega Evolutions are already highlighted appropriately by the QOL highlight feature. As of right now I have made scripts for categories of Pokémon that had no highlight option, or in Legendary's case were too prominent in their highlights.
+
