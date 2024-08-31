@@ -321,7 +321,10 @@
 &[src*="pkmn/r/3/1/w.png"], /* shuritachi */
 &[src*="pkmn/s/l/l/m.png"], /* littail egg */
 &[src*="pkmn/w/2/9/u.png"], /* littail */
-&[src*="pkmn/6/s/a/0.png"] /* signal */
+&[src*="pkmn/6/s/a/0.png"], /* signal */
+&[src*="pkmn/m/w/y/7.png"], /* bafftoi egg */
+&[src*="pkmn/q/q/s/h.png"], /* bafftoi */
+&[src*="pkmn/9/0/o/s.png"] /* gobistream */
 {
 	filter: drop-shadow(5px 5px 5px #0086ff); /* Edit this line to customise your shadow */
 	/* Syntax for the drop-shadow (<offset-horizontal> <offset-vertical> <blur> <color>) */
