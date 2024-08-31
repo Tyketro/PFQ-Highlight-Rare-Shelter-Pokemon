@@ -536,7 +536,31 @@
 &[src*="pkmn/f/o/6/q.png"], /* elekimp egg */
 &[src*="pkmn/y/b/m/0.png"], /* elekimp */
 &[src*="pkmn/p/f/r/q.png"], /* electagrem */
-&[src*="pkmn/d/w/u/u.png"] /* electisnarl */
+&[src*="pkmn/d/w/u/u.png"], /* electisnarl */
+&[src*="pkmn/b/8/r.png"], /* sandslash totem q */
+&[src*="pkmn/q/s/d/d.png"], /* lanturn totem q */
+&[src*="pkmn/1/a/v/z.png"], /* sudowoodo male totem q */
+&[src*="pkmn/c/9/l/j.png"], /* sudowoodo female totem q */
+&[src*="pkmn/2/l/2/c.png"], /* donphan male totem q */
+&[src*="pkmn/v/e/0/a.png"], /* donphan female totem q */
+&[src*="pkmn/8/h/i/s.png"], /* masquerain totem q */
+&[src*="pkmn/7/k/s/i.png"], /* whiscash totem q */
+&[src*="pkmn/j/o/2/a.png"], /* walrein totem q */
+&[src*="pkmn/l/p/v/a.png"], /* skuntank totem q */
+&[src*="pkmn/d/h/1/2.png"], /* spiritomb totem q */
+&[src*="pkmn/v/e/z/e.png"], /* mantine totem q */
+&[src*="pkmn/b/t/f/n.png"], /* porygon-z totem q */
+&[src*="pkmn/d/q/s/y.png"], /* leavanny totem q */
+&[src*="pkmn/g/k/d/5.png"], /* maractus totem q */
+&[src*="pkmn/s/h/t/g.png"], /* galvantula totem q */
+&[src*="pkmn/3/8/c/4.png"], /* braviary totem q */
+&[src*="pkmn/v/w/3/j.png"], /* mandibuzz totem q */
+&[src*="pkmn/e/m/y/s.png"], /* talonflame totem q */
+&[src*="pkmn/s/w/4/y.png"], /* malamar totem q */
+&[src*="pkmn/g/g/9/0.png"], /* trevenant totem q */
+&[src*="pkmn/e/t/1/c.png"], /* snow vespiquen totem q */
+&[src*="pkmn/d/g/e/t.png"], /* stone horn */
+&[src*="pkmn/e/3/o/p.png"] /* iron seagrass */
 {
 	filter: drop-shadow(5px 5px 5px #fa007c); /* Edit this line to customise your shadow */
 	/* Syntax for the drop-shadow (<offset-horizontal> <offset-vertical> <blur> <color>) */
