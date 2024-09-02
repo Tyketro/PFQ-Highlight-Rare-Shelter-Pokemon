@@ -1,5 +1,5 @@
 /* Exclusives highlight in Shelter */
-img{
+#shelterarea > .pokemon >{
 &[src*="pkmn/c/q/s/d.png"], /* lunupine egg */
 &[src*="pkmn/m/3/2/i.png"], /* lunupine */
 &[src*="pkmn/z/u/g/2.png"], /* lunupine mega forme q */
@@ -333,7 +333,7 @@ img{
 
 
 /* Variants highlight in Shelter */
-img {
+#shelterarea > .pokemon > {
 &[src*="pkmn/t/7/n/8.png"], /* saiyan rattata egg */
 &[src*="pkmn/1/1/k/0.png"], /* saiyan rattata */
 &[src*="pkmn/4/y/6/8.png"], /* super-saiyan rattata */
@@ -569,7 +569,7 @@ img {
 /* End of Variants highlight in Shelter */
 
 /* Legendary highlight in Shelter */
-img {
+#shelterarea > .pokemon > {
 &[src*="pkmn/f/m/u.png"], /* articuno egg */
 &[src*="pkmn/o/u/2.png"], /* articuno */
 &[src*="pkmn/s/7/d/t.png"], /* galarian articuno egg */
@@ -870,7 +870,7 @@ img {
 /* End of Legendary highlight in Shelter */
 
 /* Totem highlight in Shelter */
-img {
+#shelterarea > .pokemon > {
 &[src*="pkmn/3/4/y/0.png"], /* raticate alolan totem */
 &[src*="pkmn/p/r/6/7.png"], /* marowak alolan totem */
 &[src*="pkmn/d/c/9/p.png"], /* gumshoos totem */
@@ -915,7 +915,7 @@ img {
 /* End of Totem highlight in Shelter */
 
 /* Paradox highlight in Shelter */
-img {
+#shelterarea > .pokemon > {
 &[src*="pkmn/c/a/t/r.png"], /* scream tail */
 &[src*="pkmn/x/s/8/0.png"], /* sandy shocks */
 &[src*="pkmn/l/f/d.png"], /* iron bundle */
@@ -949,7 +949,7 @@ img {
 /* End of Paradox highlight in Shelter */
 
 /* Ultra Beasts highlight in Shelter */
-img {
+#shelterarea > .pokemon > {
 &[src*="pkmn/z/c/i/w.png"], /* nihilego egg */
 &[src*="pkmn/l/3/z/m.png"], /* nihilego */
 &[src*="pkmn/2/n/1/d.png"], /* buzzwole egg */
