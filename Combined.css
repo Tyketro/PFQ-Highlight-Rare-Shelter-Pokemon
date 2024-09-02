@@ -560,7 +560,8 @@
 &[src*="pkmn/g/g/9/0.png"], /* trevenant totem q */
 &[src*="pkmn/e/t/1/c.png"], /* snow vespiquen totem q */
 &[src*="pkmn/d/g/e/t.png"], /* stone horn */
-&[src*="pkmn/e/3/o/p.png"] /* iron seagrass */
+&[src*="pkmn/e/3/o/p.png"], /* iron seagrass */
+&[src*="pkmn/d/2/f/p.png"] /* clodsire totem q */
 {
 	filter: drop-shadow(5px 5px 5px #fa007c); /* Edit this line to customise your shadow */
 	/* Syntax for the drop-shadow (<offset-horizontal> <offset-vertical> <blur> <color>) */
@@ -905,7 +906,8 @@
 &[src*="pkmn/g/g/9/0.png"], /* trevenant totem q */
 &[src*="pkmn/e/t/1/c.png"], /* snow vespiquen totem q */
 &[src*="pkmn/g/u/b/r.png"], /* slugdog totem q */
-&[src*="pkmn/8/u/p/z.png"] /* eucylph totem q */
+&[src*="pkmn/8/u/p/z.png"], /* eucylph totem q */
+&[src*="pkmn/d/2/f/p.png"] /* clodsire totem q */
 {
 	filter: drop-shadow(5px 5px 5px #ffa600); /* Edit this line to customise your shadow */
 	/* Syntax for the drop-shadow (<offset-horizontal> <offset-vertical> <blur> <color>) */
