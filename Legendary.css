@@ -292,7 +292,10 @@
 &[src*="pkmn/g/6/7/t.png"], /* manaphy mega q */
 &[src*="pkmn/3/o/p/k.png"], /* shaymin mega q */
 &[src*="pkmn/n/i/k/7.png"], /* victini mega q */
-&[src*="pkmn/7/w/0/n.png"] /* marshadow mega q */
+&[src*="pkmn/7/w/0/n.png"], /* marshadow mega q */
+&[src*="pkmn/5/a/l/e.png"], /* bunbori egg */
+&[src*="pkmn/s/a/y/e.png"], /* bunbori */
+&[src*="pkmn/7/5/d/q.png"] /* bunbori mega forme q */
 {
 	filter: drop-shadow(5px 5px 5px #f5e31d); /* Edit this line to customise your shadow */
 	/* Syntax for the drop-shadow (<offset-horizontal> <offset-vertical> <blur> <color>) */
