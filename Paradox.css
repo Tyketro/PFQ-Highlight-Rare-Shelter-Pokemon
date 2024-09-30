@@ -25,7 +25,8 @@
 &[src*="pkmn/u/6/4/l.png"], /* miraidon low power mode */
 &[src*="pkmn/r/7/2/r.png"], /* miraidon ultimate mode */
 &[src*="pkmn/d/g/e/t.png"], /* stone horn */
-&[src*="pkmn/e/3/o/p.png"] /* iron seagrass */
+&[src*="pkmn/e/3/o/p.png"], /* iron seagrass */
+&[src*="pkmn/1/i/i/r.png"] /* tangled vines*/
 {
 	filter: drop-shadow(5px 5px 5px #9a08fc); /* Edit this line to customise your shadow */
 	/* Syntax for the drop-shadow (<offset-horizontal> <offset-vertical> <blur> <color>) */
