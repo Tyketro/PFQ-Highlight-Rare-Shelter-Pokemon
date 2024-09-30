@@ -561,7 +561,8 @@
 &[src*="pkmn/e/t/1/c.png"], /* snow vespiquen totem q */
 &[src*="pkmn/d/g/e/t.png"], /* stone horn */
 &[src*="pkmn/e/3/o/p.png"], /* iron seagrass */
-&[src*="pkmn/d/2/f/p.png"] /* clodsire totem q */
+&[src*="pkmn/d/2/f/p.png"], /* clodsire totem q */
+&[src*="pkmn/1/i/i/r.png"] /* tangled vines*/
 {
 	filter: drop-shadow(5px 5px 5px #fa007c); /* Edit this line to customise your shadow */
 	/* Syntax for the drop-shadow (<offset-horizontal> <offset-vertical> <blur> <color>) */
@@ -862,7 +863,10 @@
 &[src*="pkmn/g/6/7/t.png"], /* manaphy mega q */
 &[src*="pkmn/3/o/p/k.png"], /* shaymin mega q */
 &[src*="pkmn/n/i/k/7.png"], /* victini mega q */
-&[src*="pkmn/7/w/0/n.png"] /* marshadow mega q */
+&[src*="pkmn/7/w/0/n.png"], /* marshadow mega q */
+&[src*="pkmn/5/a/l/e.png"], /* bunbori egg */
+&[src*="pkmn/s/a/y/e.png"], /* bunbori */
+&[src*="pkmn/7/5/d/q.png"] /* bunbori mega forme q */
 {
 	filter: drop-shadow(5px 5px 5px #f5e31d); /* Edit this line to customise your shadow */
 	/* Syntax for the drop-shadow (<offset-horizontal> <offset-vertical> <blur> <color>) */
@@ -941,7 +945,8 @@
 &[src*="pkmn/u/6/4/l.png"], /* miraidon low power mode */
 &[src*="pkmn/r/7/2/r.png"], /* miraidon ultimate mode */
 &[src*="pkmn/d/g/e/t.png"], /* stone horn */
-&[src*="pkmn/e/3/o/p.png"] /* iron seagrass */
+&[src*="pkmn/e/3/o/p.png"], /* iron seagrass */
+&[src*="pkmn/1/i/i/r.png"] /* tangled vines*/
 {
 	filter: drop-shadow(5px 5px 5px #9a08fc); /* Edit this line to customise your shadow */
 	/* Syntax for the drop-shadow (<offset-horizontal> <offset-vertical> <blur> <color>) */
