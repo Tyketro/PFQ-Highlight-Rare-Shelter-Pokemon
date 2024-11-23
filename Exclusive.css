@@ -324,7 +324,10 @@
 &[src*="pkmn/6/s/a/0.png"], /* signal */
 &[src*="pkmn/m/w/y/7.png"], /* bafftoi egg */
 &[src*="pkmn/q/q/s/h.png"], /* bafftoi */
-&[src*="pkmn/9/0/o/s.png"] /* gobistream */
+&[src*="pkmn/9/0/o/s.png"], /* gobistream */
+&[src*="pkmn/z/a/g/9.png"], /* lichoung egg */
+&[src*="pkmn/p/e/5/h.png"], /* lichoung */
+&[src*="pkmn/3/w/k/3.png"] /* eldereen */
 {
 	filter: drop-shadow(5px 5px 5px #0086ff); /* Edit this line to customise your shadow */
 	/* Syntax for the drop-shadow (<offset-horizontal> <offset-vertical> <blur> <color>) */
