@@ -921,7 +921,8 @@
 &[src*="pkmn/e/t/1/c.png"], /* snow vespiquen totem q */
 &[src*="pkmn/g/u/b/r.png"], /* slugdog totem q */
 &[src*="pkmn/8/u/p/z.png"], /* eucylph totem q */
-&[src*="pkmn/d/2/f/p.png"] /* clodsire totem q */
+&[src*="pkmn/d/2/f/p.png"], /* clodsire totem q */
+&[src*="pkmn/z/c/v/t.png"] /* exploud totem q */
 {
 	filter: drop-shadow(5px 5px 5px #ffa600); /* Edit this line to customise your shadow */
 	/* Syntax for the drop-shadow (<offset-horizontal> <offset-vertical> <blur> <color>) */
