@@ -876,7 +876,8 @@
 &[src*="pkmn/7/w/0/n.png"], /* marshadow mega q */
 &[src*="pkmn/5/a/l/e.png"], /* bunbori egg */
 &[src*="pkmn/s/a/y/e.png"], /* bunbori */
-&[src*="pkmn/7/5/d/q.png"] /* bunbori mega forme q */
+&[src*="pkmn/7/5/d/q.png"], /* bunbori mega forme q */
+&[src*="pkmn/e/4/c/d.png"] /* hoopa mega forme q */
 {
 	filter: drop-shadow(5px 5px 5px #f5e31d); /* Edit this line to customise your shadow */
 	/* Syntax for the drop-shadow (<offset-horizontal> <offset-vertical> <blur> <color>) */
