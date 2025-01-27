@@ -572,7 +572,9 @@
 &[src*="pkmn/p/1/3/2.png"], /* bonfire gastly egg */
 &[src*="pkmn/v/r/3.png"], /* bonfire gastly */
 &[src*="pkmn/e/f/c/j.png"], /* bonfire haunter */
-&[src*="pkmn/d/o/p/x.png"] /* bonfire gengar */
+&[src*="pkmn/d/o/p/x.png"], /* bonfire gengar */
+&[src*="pkmn/q/z/h/l.png"], /* water lily floette */
+&[src*="pkmn/k/m/5/1.png"] /* water lily florges */
 {
 	filter: drop-shadow(5px 5px 5px #fa007c); /* Edit this line to customise your shadow */
 	/* Syntax for the drop-shadow (<offset-horizontal> <offset-vertical> <blur> <color>) */
