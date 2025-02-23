@@ -330,7 +330,10 @@
 &[src*="pkmn/3/w/k/3.png"], /* eldereen */
 &[src*="pkmn/1/1/l/6.png"], /* sapskit egg */
 &[src*="pkmn/r/n/g/w.png"], /* sapskit */
-&[src*="pkmn/v/q/h/h.png"] /* grovarain */
+&[src*="pkmn/v/q/h/h.png"], /* grovarain */
+&[src*="pkmn/a/c/r/2.png"], /* teddigrade egg */
+&[src*="pkmn/u/b/d/m.png"], /* teddigrade tun */
+&[src*="pkmn/h/g/m/k.png"] /* teddigrade squishy */
 {
 	filter: drop-shadow(5px 5px 5px #0086ff); /* Edit this line to customise your shadow */
 	/* Syntax for the drop-shadow (<offset-horizontal> <offset-vertical> <blur> <color>) */
